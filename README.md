@@ -1,8 +1,7 @@
 # 💫 About Me  
 
 ## Hi there 👋  
-I’m **Ankita Pawar**, a **Full Stack Developer** with experience working at  
-**Warner Bros. Discovery**, focused on building **clean, scalable, production-grade applications**.
+I’m **Ankita Pawar**, a **Full Stack Developer** focused on building **clean, scalable, production-grade applications**.
 
 ---
 
