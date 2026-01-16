@@ -5,7 +5,7 @@ I’m **Ankita Pawar**, a **Full Stack Developer** focused on building **clean, 
 
 ---
 
-- 🔭 Previously worked at **Warner Bros. Discovery**
+- 🔭 Previously worked at **Warner Bros. Discovery** as Senior Software Engineer
 - 🔧 Building real-world projects using **Java & Angular**
 - 🌱 Deepening my knowledge in **Spring Boot, Microservices, System Design, Kafka, and Clean Architecture**
 - 💬 Ask me about **Java backend APIs, Angular fundamentals, or Git**
